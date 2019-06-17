@@ -1,0 +1,14 @@
+name = input("What's your name? ")
+print("How are you " + name)
+age = input("Your age? ")
+print("Nice to meet you,", str(age) + " years old, " + name + "!")
+
+OUTPUT 
+name = input("What's your name? ")
+What's your name? Meena
+print("How are you " + name)
+How are you Meena
+age = input("Your age? ")
+Your age?30
+print("Nice to meet you,", str(age) + " years old, " + name + "!")
+Nice to meet you,30 years old, Meena ! 
