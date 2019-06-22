@@ -1,0 +1,22 @@
+username = "Meena"
+if username == "Meena" or "himanshu":
+	print("happy")
+elif username =="neena":
+	print("oo")
+  
+  _____________________________________________________________________________________________________________
+  username = "Meena"
+  age = 35
+  if username == "Meena" and age == 40:
+      print("Happy")
+      
+ -------------------------------------------------------------------------------------------------------------
+ username = "Meena"
+age = 35
+if username == "Meena" and age == 40:
+      print("Happy")
+if username !="Meena" or age ==35:
+              print ("great")
+else:
+    print("Thanks")
+----------------------------------------------------------------------------------------------------------------
